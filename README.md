@@ -3,6 +3,8 @@
 
 #### The following is a list of resources related to smart cities, sustainable development and smart, decentralized governance that I have found thought-provoking and inspiring. 
 
-#### This repository is a way of keeping track, a to-do list of resources that have sharpened and shaped my curiosity and passion for the subject.
+#### This repository is a way of keeping track, a list of resources and references that have sharpened and shaped my curiosity and passion for the subject.
 
 - https://www.transportation.gov/smartcity/78-round-one-apps
+- https://sdgacademy.org/
+- https://www.pps.org/
